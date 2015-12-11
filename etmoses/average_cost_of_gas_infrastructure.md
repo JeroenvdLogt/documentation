@@ -1,6 +1,6 @@
 # Average cost of gasinfrastructure for households
 
-_For purposese of doing social cost analysis of energy systems with both gas- and electric infrastructure it is necessary to know
+_For purposes of doing social cost analysis of energy systems with both gas- and electric infrastructure it is necessary to know
 average infrastructural cost per household. In phase 1 this is a rough but realistic estimation. In phase 2 it would be possible for users
 to configurate more advanced settings (f.e. biogasproduction or rural areas). According to tariff experts of Liander the gastariffs of 
 gridoperators are costoriented and so reflect the __average__ cost gasinfrastructure per household in standard situations. More information
@@ -40,10 +40,10 @@ Tarieven 2015 verwijdering gasaansluiting voor kleinverbruikers
 
 Decomissioning category | (standard connection, construction area connection and temporary connection) | Tariff in € incl. VAT | Tariff in € excl.VAT |
 ----------------------- | ---------------------------------------------------------------------------- | --------------------- | -------------------- |
-Normal decomissioning time t/m G25 (done within 10 working days) | free*	| free* |
-Short decommisioning time t/m G25 (between 1 and 10 working days) | 431,97 | 357,00 |
-Urgent decommissiongin t/m G25 (at the same day_ | 603,79 | 499,00 |
-already demolished, if there is damage | customized | customized |
+Normal decomissioning time t/m G25 (done within 10 working days) |  | free*	| free* |
+Short decommisioning time t/m G25 (between 1 and 10 working days) |  | 431,97 | 357,00 |
+Urgent decommissiongin t/m G25 (at the same day_ |  | 603,79 | 499,00 |
+already demolished, if there is damage | customized |  | customized |
 
 ----------------------------------------------------------------------------------------------------------------------
 ## Not specified for individual household
